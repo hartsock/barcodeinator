@@ -1,0 +1,15 @@
+*.log
+
+.idea/
+
+*.iml
+
+*.zip
+
+*.class
+
+target/
+
+docs/
+
+.DS_Store
